@@ -3,11 +3,7 @@ Understanding Self-Organising Map Neural Network - Without Toolbox
 
 ![Self-organizing-map-structure](https://github.com/Yousef-Sharafi/Self-organising-map-neural-network-without-toolbox/assets/142591174/eef91046-4914-471c-a51d-b2a5e62def5b)
 
-![1](https://github.com/Yousef-Sharafi/Self-organising-map-neural-network-without-toolbox/assets/142591174/785348dd-c001-42a9-824b-0a40182cd9a9)
-
-![2](https://github.com/Yousef-Sharafi/Self-organising-map-neural-network-without-toolbox/assets/142591174/4eed4e14-6d8a-4cc7-a94e-651e76709345)
-
-# Step 10
+# Step 1
 ![r-0](https://github.com/Yousef-Sharafi/Self-organising-map-neural-network-without-toolbox/assets/142591174/5c43cd59-6234-4042-a873-b2638b14c5d2)
 
 # Step 20
@@ -22,7 +18,7 @@ Understanding Self-Organising Map Neural Network - Without Toolbox
 # Step 50
 ![r-5](https://github.com/Yousef-Sharafi/Self-organising-map-neural-network-without-toolbox/assets/142591174/cbdaa387-3074-4dfd-b5ea-f3ca81d81087)
 
-# Step 80
+# Step 60
 ![r-6](https://github.com/Yousef-Sharafi/Self-organising-map-neural-network-without-toolbox/assets/142591174/e2e3edf7-536e-4618-bf32-db973206a415)
 
 # Step 100
