@@ -14,5 +14,5 @@ function setColorFun(i,j,iColor)
     if(iColor==5)
         iC='y';%[0 1 1];
     end
-    patch([i,i+1,i+1,i],[j,j,j+1,j+1],iC);
+    patch([i,i+1,i+1,i],[j,j,j+1,j+1],iC); 
 end
